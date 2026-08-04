@@ -1,5 +1,10 @@
 # Architecture
 
-This document will describe the high-level architecture, components, and design decisions for LifeOps.
+This document will describe the high-level architecture, components, and design decisions
 
-Status: Draft — details to be added.
+ Every domain should contain:
+
+AI_CONTEXT.md
+PLAN.md
+GOALS.md
+CURRENT_STATE.md
