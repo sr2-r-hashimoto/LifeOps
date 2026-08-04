@@ -1,3 +1,22 @@
+# Purpose
+
+LifeOps exists to maximize long-term human growth.
+
+The project treats life as an engineering problem.
+
+Every habit, decision, workflow and system should contribute to becoming a better person over time.
+
+Growth should be:
+
+- Sustainable
+- Measurable
+- Repeatable
+- Continuously improving
+
+LifeOps is not a productivity system.
+
+It is a human growth operating system.
+
 # AI Context
 
 > This document is the primary onboarding guide for any AI assistant working on LifeOps.
